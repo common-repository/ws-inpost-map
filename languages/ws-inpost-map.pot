@@ -1,0 +1,196 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: WS Inpost Map\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-02-27 13:45+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.6; wp-6.4.3\n"
+"X-Domain: ws-inpost-map"
+
+#: App/WSInpostSettings.php:422
+msgid "Ability to change field and map position on checkout"
+msgstr ""
+
+#: App/WsInpostShippingMethod.php:60
+msgid "Add the shipping cost"
+msgstr ""
+
+#: App/WSInpostSettings.php:421
+msgid "Advanced support"
+msgstr ""
+
+#: App/WSInpostSettings.php:77
+msgid "Border on button"
+msgstr ""
+
+#: App/WSInpostSettings.php:169
+msgid "Button"
+msgstr ""
+
+#: App/WSInpostSettings.php:63
+msgid "Button background color"
+msgstr ""
+
+#: App/WSInpostSettings.php:118
+msgid "Button background color on hover"
+msgstr ""
+
+#: App/WSInpostSettings.php:83
+msgid "Button border color"
+msgstr ""
+
+#: App/WSInpostSettings.php:97
+msgid "Button border radius"
+msgstr ""
+
+#: App/WSInpostSettings.php:90
+msgid "Button border size"
+msgstr ""
+
+#: App/WSInpostSettings.php:31
+msgid "Button font size"
+msgstr ""
+
+#: App/WSInpostSettings.php:38
+msgid "Button font weight"
+msgstr ""
+
+#: App/WSInpostSettings.php:104
+msgid "Button opacity on hover value (value / 100)"
+msgstr ""
+
+#: App/WSInpostSettings.php:70
+msgid "Button padding"
+msgstr ""
+
+#: App/WSInpostSettings.php:56
+msgid "Button text color"
+msgstr ""
+
+#: App/WSInpostSettings.php:111
+msgid "Button text color on hover"
+msgstr ""
+
+#: templates/inpostButton.php:1
+msgid "Choose / Change paczkomat"
+msgstr ""
+
+#: App/WsInpostShippingMethod.php:58
+msgid "Cost"
+msgstr ""
+
+#: App/WsInpostShippingMethod.php:51
+msgid "Description"
+msgstr ""
+
+#: App/WsInpostShippingMethod.php:40
+msgid "Enable this shipping method"
+msgstr ""
+
+#: App/WsInpostShippingMethod.php:38
+msgid "Enable/Disable"
+msgstr ""
+
+#: App/WsInpostShippingMethod.php:53
+msgid "Enter the Description"
+msgstr ""
+
+#: App/WsInpostShippingMethod.php:46
+msgid "Enter the method title"
+msgstr ""
+
+#: App/WSInpostSettings.php:163
+msgid "General"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://www.k4.pl/"
+msgstr ""
+
+#: App/WsInpostActions.php:62
+msgid "Locker ID"
+msgstr ""
+
+#: templates/inpostButton.php:2
+msgid "If you experience a problem displaying the map, please disable AdBlock."
+msgstr ""
+
+#: App/WSInpostSettings.php:424
+msgid "K4-shop"
+msgstr ""
+
+#: App/WsInpostShippingMethod.php:44
+msgid "Method Title"
+msgstr ""
+
+#: App/WSInpostSettings.php:420
+msgid "More customisation options"
+msgstr ""
+
+#: App/WsInpostShippingMethod.php:10
+msgid "Paczkomat Inpost"
+msgstr ""
+
+#: App/WsInpostActions.php:45 App/WsInpostActions.php:46
+msgid "Paczkomat number"
+msgstr ""
+
+#. Description of the plugin
+#: App/WSInpostSettings.php:248
+msgid ""
+"Plugin designed to enhance the shipping options in WooCommerce. It provides "
+"an additional shipping method and enables customers to conveniently select a "
+"parcel locker (Paczkomat) using an integrated map feature."
+msgstr ""
+
+#: App/WSInpostSettings.php:175
+msgid "Pro Version"
+msgstr ""
+
+#: App/WSInpostSettings.php:418
+msgid "Pro version features"
+msgstr ""
+
+#: App/WSInpostSettings.php:268
+msgid "Save Settings"
+msgstr ""
+
+#: App/WSInpostSettings.php:229
+msgid "Settings Saved"
+msgstr ""
+
+#: App/WSInpostSettings.php:22
+msgid "Show button on checkout"
+msgstr ""
+
+#: App/WsInpostShippingMethod.php:11
+msgid ""
+"The method allows you to choose a parcel locker where the shipment is to be "
+"delivered."
+msgstr ""
+
+#: App/WSInpostSettings.php:424
+msgid "To get premium version visit this link:"
+msgstr ""
+
+#. Author of the plugin
+msgid "Web Systems"
+msgstr ""
+
+#. Name of the plugin
+#: App/WSInpostSettings.php:245
+msgid "WS Inpost Map"
+msgstr ""
+
+#: App/WSInpostSettings.php:209
+msgid "WS Inpost Settings"
+msgstr ""

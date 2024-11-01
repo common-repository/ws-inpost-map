@@ -1,0 +1,90 @@
+#shipping_method li div {
+    display: none !important;
+}
+
+#geomap-modal {
+    position: fixed;
+    height: 650px;
+    width: 760px;
+    z-index: 0;
+    display: none;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+    left: 10px;
+    right: 10px;
+}
+
+#geomap-modal.active {
+    display: block;
+    z-index: 9999;
+}
+
+#geomap-modal .close-modal {
+    display: none;
+    color: black;
+    padding: 10px;
+    position: absolute;
+    background: #f7f6f1;
+    font-size: 23px;
+    top: -40px;
+    right: 0;
+    cursor: pointer;
+}
+
+#geomap-modal .close-modal.active {
+    display: block;
+}
+
+#geomap-modal #easypack-map {
+    margin-top: 38px;
+}
+
+.easypack-widget.mobile .point-details .details-wrapper .details-actions .action {
+    padding-top: 0px !important;
+}
+
+#inpost-info-box {
+    color: #ffffff;
+    margin-top: 10px;
+}
+
+#billing__paczkomat_id {
+    cursor: not-allowed;
+}
+
+@media only screen and (max-width:1024px) {
+    .e-checkout__column.e-checkout__column-start {
+        position: relative;
+    }
+
+    #geomap-modal {
+        position: fixed;
+        top: 0;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        max-width: 700px;
+        width: 100%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+}
+
+@media only screen and (max-width:720px) {
+    #geomap-modal {
+        position: fixed;
+        top: 0;
+        bottom: 20px;
+        left: 10px;
+        right: 10px;
+        max-width: 700px;
+        width: auto;
+        height: 90%;
+    }
+}
+
+.woocommerce-billing-fields .select-paczkomat-button {
+    cursor: pointer;
+    position: relative;
+}
